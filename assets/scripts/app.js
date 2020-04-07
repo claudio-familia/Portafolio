@@ -58,7 +58,7 @@ const Portfolio = function() {
 		Typed.new("#writing-text", {
 			strings: [
 				"am a Full-Stack Web Developer.", 
-				"have one year’s experience", 
+				"have 1+ year’s experience", 
 				"work at Wepsys SRL", 
 				"also work at Policia Nacional.", 
 				"love everything about code."
